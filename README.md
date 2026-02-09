@@ -45,6 +45,18 @@ sentence-transformers (required for HuggingFaceEmbeddings with all-MiniLM-L6-v2)
 Install: pip install sentence-transformers
 concurrent.futures (standard library, no installation needed for ThreadPoolExecutor)
 
+[for copy and paste]
+pip install sentence-transformers
+pip install pypdf
+pip install pandas
+pip install docx2txt
+pip install tqdm
+pip install cachetools
+pip install langchain-ollama
+pip install tiktoken
+pip install langchain-huggingface
+pip install langchain-community
+pip install faiss-cpu
 _____________
 
 
